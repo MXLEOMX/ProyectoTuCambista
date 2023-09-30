@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    
+    "SqlConnectionString": "Server=sql-tucambista-evaluacion.database.windows.net;Database=sqldb-tucambista-evaluacion;User Id=LeonardoSolimano;Password=7sK48@I9l%%1_" 
+  }
+}
